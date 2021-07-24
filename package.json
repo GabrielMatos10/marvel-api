@@ -6,6 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.2",
+    "axios": "^0.21.1",
+    "md5": "^2.3.0",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -13,6 +16,7 @@
     "styled-components": "^5.2.3"
   },
   "devDependencies": {
+    "@types/md5": "^2.3.1",
     "babel-plugin-styled-components": "^1.12.0"
   },
   "license": "MIT"
