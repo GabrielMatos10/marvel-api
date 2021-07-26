@@ -14,6 +14,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Axios](https://www.npmjs.com/package/axios)
 - [Md5](https://www.npmjs.com/package/md5)
 - [APIMarvel](https://developer.marvel.com/)
+- [MaterialUI](https://material-ui.com/pt/)
 
 ## Melhorias !
 
