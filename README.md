@@ -19,8 +19,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 * Arrumar o CSS
 * Adicionar Testes
-* Adicionar Barra de busca de heróis
 
 ## Dificuldades durante o projeto !
 
-Tive dificuldade inicial para conseguir pegar os elementos da API pois achei a API muito restrita e complicada de pegar os elementos. Mas com bastante estudo e pesquisa eu consegui achar a solução! Devido ao prazo ter passado, não consegui fazer um CSS desejável e nem a barra de busca que eu pretendia. Mas com certeza irei terminar o projeto idependente do resultado !
+Tive dificuldade inicial para conseguir pegar os elementos da API pois achei a API muito restrita e complicada de pegar os elementos. Mas com bastante estudo e pesquisa eu consegui achar a solução! Muito satisfeito com o projeto pois consegui aprender e botar em prática muita coisa estudada.
