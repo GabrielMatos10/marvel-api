@@ -18,8 +18,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Melhorias !
 
-* Arrumar o CSS
 * Adicionar Testes
+* Site mais responsivo
 
 ## Dificuldades durante o projeto !
 
